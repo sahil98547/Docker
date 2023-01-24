@@ -1,4 +1,4 @@
-# Intall on window
+# Install on window
 * Download the Docker Desktop for Windows installer from the official website: https://www.docker.com/products/docker-desktop.
 * Double-click on the installer file to start the installation process.
 
