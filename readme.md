@@ -73,7 +73,7 @@ docker push myproject
 
 <br>
 
-## So, Now I Upload My Own Project(Tincare) On Docker Desktop.
+## So, Now I Uploaded My Own Project(Tincare) On Docker Desktop.
 
 <br>
 To upload the project "Tincare-1" from the GitHub repository "https://github.com/sahil98547/Tincare-1.git" to a Docker container, you will need to follow these steps:
@@ -139,7 +139,7 @@ This command maps the host port 8000 to the container port 8000, and starts the 
 
 <br>
 
-## Problems I Face During This Exercise.
+## Problems I Faced During This Exercise.
 * Docker is not starting at the beginning when i installed in the window.
 * It was showing Docker Desktop is Stop.
 * Message is pop-up which showing **WSL 2 installation is incomplete**.
