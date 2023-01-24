@@ -155,4 +155,4 @@ This command maps the host port 8000 to the container port 8000, and starts the 
 
 ![](image-1.png)
 
-* The file i written in dockerfile so, due to this problem is also arising so use Docerfile instead of dockerfile.
+* The file name for a Dockerfile must be capitalized as "Dockerfile" and not "dockerfile" in order for Docker to recognize it as the file containing the instructions for building the image. If the file name is not capitalized correctly, Docker will not be able to find the file and will display an error.
